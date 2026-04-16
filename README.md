@@ -23,3 +23,5 @@ EV-Charge-Demand/
 ├── src/                   # Source code (training, utils, etc.)
 ├── notebooks/             # Jupyter notebooks for analysis
 ├── requirements.txt       # Python dependencies
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DBjHI_35l-lnfRJVBlx3Mld4UNtESxku?usp=sharing)
